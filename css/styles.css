@@ -4,8 +4,28 @@
 .container{
   margin-top: 40px;
   margin-bottom: 40px;
+  color: darkslategrey;
 }
 .tbmargin{
   margin-top: 40px;
   margin-bottom: 40px;
+}
+h1{
+  font-size: 3rem;
+}
+.jumbotron{
+  height:95vh;
+}
+
+.lg-text{
+  font-size: 3rem;
+  margin: 50px 0;
+}
+
+.md-text{
+  font-size: 30px;
+  border-radius: 3px;
+}
+ul {
+  list-style-type: none;
 }
