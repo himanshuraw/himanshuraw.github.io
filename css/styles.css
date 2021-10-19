@@ -16,7 +16,9 @@ h1{
 .jumbotron{
   height:95vh;
 }
-
+.text-light{
+  color:beige
+}
 .lg-text{
   font-size: 3rem;
   margin: 50px 0;
@@ -28,4 +30,13 @@ h1{
 }
 ul {
   list-style-type: none;
+}
+.carousel{
+  background-color: #007c83
+}
+#rcontact{
+  margin-top: 40px;
+}
+.btn{
+  border-radius: 50%;
 }
